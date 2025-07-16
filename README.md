@@ -53,7 +53,7 @@ This may be not still be an issue by the time you're reading this. Unfortunately
 
 - open the `Docker Manager` app and go to Project on the right side
 - click the plus sign on the top right corner
-- use `Immich` as the `Project name`
+- use `immich` (mind the lowercase) as the `Project name`
 - choose the folder from step 4 for the `Project path`
 - `Local TNAS` is fine for the `Configuration file source`
 - find the `docker-compose.yml` file for `Upload configuration file`
